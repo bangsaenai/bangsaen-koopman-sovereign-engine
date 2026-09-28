@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Build folders
+build/
+*.egg-info/
+
+# Internal C Source & Encoder Tools (ซ่อนไม่ให้ขึ้น GitHub 100%)
+src/koopman_core.c
+src/encoder.py
+setup.pyแส
