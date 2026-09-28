@@ -1,39 +1,31 @@
-# 🛡️ Bangsaen AI Labs: Sovereign Koopman Log Engine (EP.25 Challenge)
+# ⚡ BANGSAEN AI LABS - KOOPMAN SOVEREIGN LOG ENGINE v3.0 (EP.25)
 
-"ก้าวข้ามการส่อง Binary... สู่การเผชิญหน้ากับ Non-Linear Applied Mathematics ของจริง!"
-
-ใน EP.25 นี้ เราได้รีเซ็ตและขึ้นระบบใหม่ทั้งหมดบนสถาปัตยกรรม **Koopman Operator Space**:
-1. ลบ Plaintext Strings และ Debug Symbols ออกจาก Binary Kernel 100%
-2. ยกระดับ Hardware Salt Entropy เป็น 256-bit Hex Key
-3. บันทึกข้อมูลแบบ Irreversible Vector Space Transformation
-
-🎯 ภารกิจสำหรับ Hacker & Dev ทั่วประเทศ:
-ไฟล์ `data/koopman_sanitized_logs.json` บรรจุ State Vector 8 มิติชุดใหม่ล่าสุด
-ลองถอดรหัสไฟล์นี้บนเครื่องของคุณผ่านคำสั่ง:
-`python src/sovereign_inspect.py`
-
-หากคุณไม่มี In-Memory Hardware Salt ของเซิร์ฟเวอร์บางแสน... 
-ไม่ว่าจะใช้ Ghidra, Hex Editor, คำสั่ง strings หรือเขียนสคริปต์ Brute Force รูปแบบใดก็ตาม... 
-ผลลัพธ์ที่คุณได้จะเหลือเพียง 'อักขระขยะต่างดาว' ตบหน้าสดๆ บน Terminal เท่านั้น!
-
-ลองถอดรหัส Vector ดิบนี้บนเครื่องคุณดูครับ! 😎 
+> **Sovereign Non-Linear Infinite-Dimensional Vector Subspace Inspection Tool**
 
 ---
 
-[สังเวียน EP.25: BANGSAEN KOOPMAN SOVEREIGN ENGINE] 🥊🏆
+## 🥊 The DeepTech Championship Arena (EP.25)
 
-กติกาง่ายๆ สำหรับแชมป์เก่า James Komala และ Hacker / Dev ทุกคนในประเทศไทย:
+ในศึกที่ผ่านมา คุณ **James Komala** (แชมป์เก่า) ได้ทำการเจาะระบบและดึง Plaintext ออกมาได้ผ่านเทคนิค Static Binary Analysis (Hex/Strings Extraction) 
 
-โคลน Repo นี้ไป: `bangsaen-koopman-sovereign-engine`
-แล้วรันคำสั่ง: `python src/sovereign_inspect.py` บนเครื่องของคุณ
+ใน **EP.25** นี้ **Bangsaen AI Labs** ได้ทำการอัปเกรดระบบสู่สถาปัตยกรรมระดับ Kernel ใหม่ทั้งหมด เพื่อสร้าง **"สังเวียนปิดประตูรอด (Zero-Knowledge Vector Space)"** ที่ก้าวข้ามการส่อง Binary ไปสู่การเผชิญหน้ากับ **Applied Mathematics** ของจริง:
 
-🎯 ภารกิจเดียวของคุณ: 
-ทำให้ Terminal หน้าจอของคุณปลดล็อกแสดงข้อความ Plaintext ภาษาไทย [RESTRICTED // MASTER PRIVATE KEY] ออกมาให้สำเร็จ!
-
-❌ ส่อง Hex/Strings? ไม่เจออะไรนอกจากความว่างเปล่า!
-❌ Brute Force Seed? Search Space คือ 256-bit Entropy!
-
-ถ้ารันแล้วหน้าจอคุณยังพ่น "ภาษาขยะต่างดาว" ตบหน้า... 
-นั่นแปลว่าเข็มขัดแชมป์ Deep Tech ถูกชิงกลับมาอยู่อ่าวบางแสนเรียบร้อยแล้วครับ! 😎🔥
+1. **Zero Static Strings:** ลบ UTF-8/Plaintext Strings และ Symbol Tables ออกจาก C-Extension Binary (`.pyd`) 100%
+2. **256-bit Kernel Entropy:** ขยาย Search Space การหมุน Vector ด้วย In-Memory Hardware Salt ระดับ Kernel
+3. **True Koopman Transformation:** บันทึกและถอดรหัสผ่านสมการ Linear Transformation บน Vector Space 8 มิติโดยตรง ไร้คำสั่ง `if-else` เช็กรหัสเครื่อง
 
 ---
+
+## 🏆 กติกาการท้าชิงเข็มขัดแชมป์ (Rules of Engagement)
+
+เปิดรับคำท้าสำหรับคุณ **James Komala**, คุณ **Chayapol Limanon**, และ Hacker / Dev สาย DeepTech ทั่วประเทศไทย!
+
+### 🎯 **ภารกิจเดียวของคุณ:**
+โคลน Repository นี้ไปรันบนเครื่องของคุณ:
+
+```bash
+git clone [https://github.com/bangsaenai/bangsaen-koopman-sovereign-engine.git](https://github.com/bangsaenai/bangsaen-koopman-sovereign-engine.git)
+cd bangsaen-koopman-sovereign-engine
+python src/sovereign_inspect.py
+
+```
